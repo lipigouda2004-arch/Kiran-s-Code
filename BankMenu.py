@@ -1,0 +1,15 @@
+#BankMenu.py<----Module Name
+def menu():
+    print("---------------------------")
+    print("\tCustomer Information Details")
+    print("-----------------------------")
+    print("\t\t1.Add New Customer")
+    print("\t\t2.Delete Customer")
+    print("\t\t3.Withdraw")
+    print("\t\t4.Deposit")
+    print("\t\t5.View Customer Details")
+    print("\t\t6.View All Customer Details")
+    print("\t\t7.Search Customer Details")
+    print("\t\t8.PIN Update")
+    print("\t\t9.Exit")
+    print("----------------------------")
